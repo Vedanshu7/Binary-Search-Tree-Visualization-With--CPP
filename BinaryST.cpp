@@ -165,6 +165,8 @@ void postorder(struct Node *ptr)
         cout<<ptr->data<<"  ";
     }
 }
+
+
 int main()
 {
     int gd = DETECT, gm;
@@ -213,4 +215,3 @@ int main()
         }
     }
 }
-
